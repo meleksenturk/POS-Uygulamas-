@@ -1,0 +1,5 @@
+.category-items{
+    @apply bg-green-700 px-8 py-10  text-white cursor-pointer hover:bg-pink-500 
+    transition-all text-center min-w-[145px] flex items-center justify-center
+
+}
